@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Foundation
 
 let array = [10,13,17,19,23,29,31]
@@ -20,5 +18,3 @@ if array.count > 0 {
     }
   }
 }
-
-//: [Next](@next)

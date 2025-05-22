@@ -1,5 +1,3 @@
-//: [Previous](@previous)
-
 import Foundation
 
 var array = [6, 2, 7, 3, 8, 4, 1]
@@ -28,5 +26,3 @@ if array.count > 0 && index1 >= 0 && index1 < array.count {
 }
 
 print(array)
-
-//: [Next](@next)
